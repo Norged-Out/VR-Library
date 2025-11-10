@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: EN_Settings_PersonalSettings
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Controller
+    icon: {fileID: 2800000, guid: 8e98d47281a03a847ad4b7f917735604, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 58601b2350f1afc40aebfe1358739124, type: 2}
+    subParameters: []
+    labels: []
+  - name: Facial Select
+    icon: {fileID: 2800000, guid: d4a858de0df5d454da3a98d69c4baff5, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 625a6af3c59a35d45b2e4abf5ad79cfb, type: 2}
+    subParameters: []
+    labels: []
+  - name: Fixed Facials Enable
+    icon: {fileID: 2800000, guid: e9b2204764d7a454d802170d23dc49b6, type: 3}
+    type: 102
+    parameter:
+      name: CN_CONTACT_EMOTE_LOCK_ENABLE
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: AFK Return Movement Enable
+    icon: {fileID: 2800000, guid: 7b03d391ee08b3f46801c49bae14bcd6, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_CN_AFK_LOCOMOTION_ENABLE
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

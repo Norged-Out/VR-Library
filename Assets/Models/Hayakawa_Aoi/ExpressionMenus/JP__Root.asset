@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: JP__Root
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u8A2D\u5B9A"
+    icon: {fileID: 2800000, guid: 95c56500c4cba31429d45fc003c1d408, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 9db3da2d643476e4ebc3ae05077f630d, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u8863\u88C5"
+    icon: {fileID: 2800000, guid: d156dec3f548bbf48a4d9d384a5b5a4b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 59858e39e34751a4c8848151a77c9216, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u8868\u60C5"
+    icon: {fileID: 2800000, guid: 2e2cc9a7a21263a458d275b24f4063a0, type: 3}
+    type: 103
+    parameter:
+      name: CN_EMOTE_PRELOCK_ENABLE
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0fbc3c94823abf547b27eec6cb74aed7, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30C4\u30FC\u30EB"
+    icon: {fileID: 2800000, guid: 1044c9d27339b654da4988475c1dadcf, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1b53dfff518d4d248b6c4ea80241866a, type: 2}
+    subParameters: []
+    labels: []

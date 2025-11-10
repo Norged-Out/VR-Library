@@ -1,0 +1,713 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6038841118893319613
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_Name
+      value: "LipPierceChainMA_\u6E1B\u8870\u6709\u308A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7776030566238283477, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7776030566238283477, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 7776030566238283477, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[0]
+      value: 100
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 320824663}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5721245343907218124}
+    - targetCorrespondingSourceObject: {fileID: 5545947460348386580, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1714616192}
+    - targetCorrespondingSourceObject: {fileID: 2777840239470989509, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 438377848}
+    - targetCorrespondingSourceObject: {fileID: 9118215006833377589, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1527910566}
+  m_SourcePrefab: {fileID: 100100000, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31, type: 3}
+--- !u!1 &2249952447313426601 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5545947460348386580, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+    type: 3}
+  m_PrefabInstance: {fileID: 6038841118893319613}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1714616192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2249952447313426601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df373bf91cf30b4bbd495e11cb1a2ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mergeTarget:
+    referencePath: Armature/Hips/Spine/Chest/Neck/Head
+    targetObject: {fileID: 0}
+  prefix: 
+  suffix: 
+  legacyLocked: 0
+  LockMode: 1
+  mangleNames: 1
+--- !u!1 &3261782872357872776 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9118215006833377589, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+    type: 3}
+  m_PrefabInstance: {fileID: 6038841118893319613}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1527910566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3261782872357872776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Preset_default
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Preset_cute
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Preset_cool
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_FF
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_TH
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_DD
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_kk
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_CH
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_SS
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_nn
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_RR
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_aa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_E
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ih
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_oh
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ou
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3042"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3044"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3046"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u304A"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u307A\u308D\u3063"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: jawForward
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: jawLeft
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: jawOpen
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: jawRight
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthClose
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthDimpleLeft
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthFrownLeft
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthFunnel
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthLeft
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthLowerDownLeft
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthPressLeft
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthPucker
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthRight
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthRollLower
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthShrugLower
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthSmileLeft
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouthStretchLeft
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Facejaw_short
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: FaceJaw_long
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Lip_wide
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Lip_slim
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Lip_m
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Lip_edgeUp_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Lip_edgeUp_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Lip_openLower
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Lip_closeLower
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_moveUp
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_moveDown
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_big
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_small
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_smile
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_anger
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_open
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_open2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_open3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_openSmile
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_openSmile2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_openSmile3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_v
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_he
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_o
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_chu
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_cat
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_cat2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_triangle2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_tinfinity
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_puku
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: Mouth_bite_L
+    LocalBlendshape: 
+--- !u!1 &6849746134133741804 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+    type: 3}
+  m_PrefabInstance: {fileID: 6038841118893319613}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &320824663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6849746134133741804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560fdafd46c74b2db6422fdf0e7f2363, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InheritProbeAnchor: 1
+  ProbeAnchor:
+    referencePath: AutoAnchorObject
+    targetObject: {fileID: 0}
+  InheritBounds: 1
+  RootBone:
+    referencePath: AutoAnchorObject
+    targetObject: {fileID: 0}
+  Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 1, y: 1, z: 1}
+--- !u!114 &5721245343907218124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6849746134133741804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb122659f724ebf85fe095ac02dc339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 9100000, guid: eb4753f89910adf4d9d9ade86734d5d6, type: 2}
+  layerType: 5
+  deleteAttachedAnimator: 0
+  pathMode: 1
+  matchAvatarWriteDefaults: 0
+  relativePathRoot:
+    referencePath: 
+    targetObject: {fileID: 0}
+  layerPriority: 0
+--- !u!1 &8449484051732821368 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2777840239470989509, guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31,
+    type: 3}
+  m_PrefabInstance: {fileID: 6038841118893319613}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &438377848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8449484051732821368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1661641543, guid: 2a2c05204084d904aa4945ccff20d8e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foldout_transforms: 1
+  foldout_forces: 1
+  foldout_collision: 1
+  foldout_stretchsquish: 1
+  foldout_limits: 1
+  foldout_grabpose: 1
+  foldout_options: 1
+  foldout_gizmos: 0
+  version: 1
+  integrationType: 0
+  rootTransform: {fileID: 0}
+  ignoreTransforms: []
+  endpointPosition: {x: 0, y: 0, z: 0}
+  multiChildType: 0
+  pull: 0.15
+  pullCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spring: 0.85
+  springCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  stiffness: 0.2
+  stiffnessCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  gravity: 0.8
+  gravityCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  gravityFalloff: 0.3
+  gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 1
+  immobile: 0.3
+  immobileCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  allowCollision: 1
+  collisionFilter:
+    allowSelf: 1
+    allowOthers: 1
+  radius: 0
+  radiusCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  colliders: []
+  limitType: 1
+  maxAngleX: 45
+  maxAngleXCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  maxAngleZ: 45
+  maxAngleZCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  limitRotation: {x: -20, y: 0, z: 0}
+  limitRotationXCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  limitRotationYCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  limitRotationZCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  allowGrabbing: 1
+  grabFilter:
+    allowSelf: 1
+    allowOthers: 1
+  allowPosing: 1
+  poseFilter:
+    allowSelf: 1
+    allowOthers: 1
+  snapToHand: 0
+  grabMovement: 0.5
+  maxStretch: 0
+  maxStretchCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  maxSquish: 0
+  maxSquishCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  stretchMotion: 0
+  stretchMotionCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  isAnimated: 0
+  resetWhenDisabled: 0
+  parameter: 
+  showGizmos: 1
+  boneOpacity: 0.5
+  limitOpacity: 0.5

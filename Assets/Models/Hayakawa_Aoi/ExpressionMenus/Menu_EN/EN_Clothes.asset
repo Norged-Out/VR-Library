@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: EN_Clothes
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Blazer
+    icon: {fileID: 2800000, guid: 8a623a0240c96e748afe3817ce2826f4, type: 3}
+    type: 102
+    parameter:
+      name: Toggle_Cloth
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Socks
+    icon: {fileID: 2800000, guid: f222e6270bb9d9845a8c297e7477a508, type: 3}
+    type: 102
+    parameter:
+      name: Visible_Socks
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tights
+    icon: {fileID: 2800000, guid: e5d70308bf1d52a42a0db7345dff4455, type: 3}
+    type: 102
+    parameter:
+      name: Visible_Tights
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shoes
+    icon: {fileID: 2800000, guid: 001a0ba1b3658ba4eb7a7550a0302c6b, type: 3}
+    type: 102
+    parameter:
+      name: Toggle_Shoes
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Naked Feet
+    icon: {fileID: 2800000, guid: b5c62de4025acbd4a9047e3ae45b8d68, type: 3}
+    type: 102
+    parameter:
+      name: Toggle_Shoes
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Roomshoes
+    icon: {fileID: 2800000, guid: 03b07779711e29c47a829d082d6c6b21, type: 3}
+    type: 102
+    parameter:
+      name: Toggle_Shoes
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: EN_FaceEmote_Default
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Close
+    icon: {fileID: 2800000, guid: bacaacb292fc21848a00044958c54bb1, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_EM_EMOTE
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Laugh
+    icon: {fileID: 2800000, guid: c1ed0751699079648aac825304917535, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_EM_EMOTE
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Jito
+    icon: {fileID: 2800000, guid: a4dd0bd9ed398fa4db187339e7868d3d, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_EM_EMOTE
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Wink
+    icon: {fileID: 2800000, guid: 5bd3babd24b2e89468e7c29e368a5d37, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_EM_EMOTE
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Eating
+    icon: {fileID: 2800000, guid: e848c888a263c2e47bf8b656a5f64045, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_EM_EMOTE
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Smile
+    icon: {fileID: 2800000, guid: 2f68d0e2015dae042b7d00b2d212b372, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_EM_EMOTE
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Jito Twinkle
+    icon: {fileID: 2800000, guid: c714db0eb0834284e936666d5b3b55b8, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_EM_EMOTE
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: EN_FaceEmote_FixedEmote
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Fixed Facial ON/OFF
+    icon: {fileID: 2800000, guid: 756a004e5780c7e48927dd1e902cf3bc, type: 3}
+    type: 102
+    parameter:
+      name: CN_EMOTE_LOCK_ENABLE
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Default
+    icon: {fileID: 2800000, guid: 2f68d0e2015dae042b7d00b2d212b372, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 630ed5dbc93b8174388751955af30b16, type: 2}
+    subParameters: []
+    labels: []
+  - name: Positive
+    icon: {fileID: 2800000, guid: 17f63d5ff447a6442b9106d7abfee06c, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a161f3a1425b08d4e9385ed23698764b, type: 2}
+    subParameters: []
+    labels: []
+  - name: Negative
+    icon: {fileID: 2800000, guid: a6fb01908d75b8d49b1e80d22cd9c02a, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: de372c979fd56c44d89e480710dc567c, type: 2}
+    subParameters: []
+    labels: []
+  - name: Others
+    icon: {fileID: 2800000, guid: 2af4cf4238077764a80f4d31739e48f7, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 402e06aaf4c528842ab428a978e4c066, type: 2}
+    subParameters: []
+    labels: []

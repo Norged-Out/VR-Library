@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: EN_Settings_PersonalSettings_FaceEmoteSelectType
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Prime Right
+    icon: {fileID: 2800000, guid: dc01bfbdddb225b4e8ddd24cc2dcf6ab, type: 3}
+    type: 102
+    parameter:
+      name: CN_EMOTE_SELECT_PRIORITY_RIGHT
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Right Only
+    icon: {fileID: 2800000, guid: 261066c841ae4a94ea6c0f4e01d44b97, type: 3}
+    type: 102
+    parameter:
+      name: CN_EMOTE_SELECT_ONLY_RIGHT
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Left Only
+    icon: {fileID: 2800000, guid: b8d0b448e9818cb458ff57cad757eb63, type: 3}
+    type: 102
+    parameter:
+      name: CN_EMOTE_SELECT_ONLY_LEFT
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

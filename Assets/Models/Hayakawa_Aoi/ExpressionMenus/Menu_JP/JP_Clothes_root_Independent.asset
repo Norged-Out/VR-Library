@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: JP_Clothes_root_Independent
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u5236\u670D"
+    icon: {fileID: 2800000, guid: d156dec3f548bbf48a4d9d384a5b5a4b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a675a32bdfa2f7e49ab7b1963d7221f5, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u90E8\u5C4B\u7740"
+    icon: {fileID: 2800000, guid: cfddf08e8d20c6f4ead309d97dc34728, type: 3}
+    type: 102
+    parameter:
+      name: Toggle_Cloth
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u6C34\u7740"
+    icon: {fileID: 2800000, guid: e336bd1573432a74caea5a447464dec1, type: 3}
+    type: 102
+    parameter:
+      name: Toggle_Cloth
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30D0\u30B9\u30BF\u30AA\u30EB"
+    icon: {fileID: 2800000, guid: bcebc423e239fc348ad740387b845a36, type: 3}
+    type: 102
+    parameter:
+      name: Toggle_Cloth
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30A2\u30AF\u30BB\u30B5\u30EA\u30FC"
+    icon: {fileID: 2800000, guid: 0cb7b728030eec341a2335cb095668fd, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 54da14d8ed49ee0459f192558eb1faa8, type: 2}
+    subParameters: []
+    labels: []

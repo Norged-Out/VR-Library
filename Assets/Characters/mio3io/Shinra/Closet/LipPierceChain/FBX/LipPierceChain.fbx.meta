@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 0a3cc9aa68e6f4b4495bf33c31f6ed31
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 519fd91a8902e0048bba07fc8bd9b79d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: LipPierceChain(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: LipPierceChain(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Armature
+      position: {x: -0.000000071740175, y: -0.004659023, z: 0.8627153}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -0, y: 0.030911386, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chest
+      parentName: Spine
+      position: {x: -0, y: 0.1648829, z: 0}
+      rotation: {x: -0.02675678, y: 7.203086e-16, z: -1.928004e-17, w: 0.999642}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Neck
+      parentName: Chest
+      position: {x: 7.0171195e-15, y: 0.17030771, z: -0.0000000027939677}
+      rotation: {x: 0.03782049, y: -2.5923003e-15, z: -4.3607936e-17, w: 0.99928457}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -1.1858935e-16, y: 0.060196854, z: -0.0000000011641532}
+      rotation: {x: -0.011069348, y: -1.9338863e-13, z: 2.1822963e-15, w: 0.9999387}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: LipPierceEarPoint
+      parentName: Head
+      position: {x: -0.052822195, y: 0.011313081, z: 0.006899589}
+      rotation: {x: 0.90089285, y: 0.0052884896, z: 0.4339023, w: 0.009637649}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LipPierceEarPoint.001
+      parentName: LipPierceEarPoint
+      position: {x: 4.656613e-10, y: 0.027546126, z: 2.3283064e-10}
+      rotation: {x: 0.0063881576, y: 0.00000016393228, z: 0.008946734, w: 0.99993956}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: LipPierceSwing
+      parentName: Head
+      position: {x: -0.023950228, y: 0.022720452, z: 0.045193885}
+      rotation: {x: 0.9172722, y: 0.0026726632, z: 0.3982158, w: 0.0053593363}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: LipPierceSwing.001
+      parentName: LipPierceSwing
+      position: {x: -0.0000000018626451, y: 0.05056236, z: -0.0000000027939677}
+      rotation: {x: 0.0053678597, y: -0.4011413, z: 0.0026555688, w: 0.9159967}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: LipPierce
+      parentName: LipPierceChain(Clone)
+      position: {x: -0.008179172, y: 1.2945764, z: 0.06711174}
+      rotation: {x: -0.12577015, y: -0.113497145, z: 0.6602718, w: 0.73167026}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
